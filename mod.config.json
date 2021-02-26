@@ -1,0 +1,11 @@
+{
+	"name": "InstantInsurance",
+	"author": "TheBlackAngelx",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"src/Prapor.js": "TamperModLoad",
+		"src/Therapist.js": "TamperModLoad",
+		"src/ReturnChance": "TamperModLoad"
+	}
+}

@@ -1,0 +1,11 @@
+{
+    
+       "insurance": {
+        "Instant_Insurance_therapist": true,
+        "Instant_Insurance_Prapor": true,
+        "ReturnChanceModifier": true, 
+        "insureReturnChance": 100
+    }
+
+
+}
