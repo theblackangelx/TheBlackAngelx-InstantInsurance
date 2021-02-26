@@ -11,7 +11,7 @@ exports.mod = () =>{
     }
     else
     {
-        logger.logSuccess("[MOD INS] Insurance not applied")
+        logger.logSuccess("[MOD INS] Insurancemodifier not applied")
     }
 
 
