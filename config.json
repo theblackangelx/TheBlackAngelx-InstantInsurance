@@ -1,0 +1,11 @@
+{
+    
+       "insurance": {
+        "Therapist_return_hour": 0,
+        "Prapor_return_hour": 0
+    },
+        "ReturnChance": {
+            "insureReturnChance": 70
+        }
+
+}
