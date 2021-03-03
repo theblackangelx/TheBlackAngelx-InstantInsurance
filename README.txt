@@ -1,2 +1,2 @@
-Makes insurance instant and allows u to chance return change
+Makes insurance returntime instant and allows u to chance return change
 
