@@ -1,8 +1,10 @@
 {
     
        "insurance": {
-        "Therapist_return_hour": 0,
-        "Prapor_return_hour": 0
+        "Therapist_min_return_hour": 1,
+        "Therapist_max_return_hour": 1,
+        "Prapor_min_return_hour": 1,
+        "Prapor_max_return_hour": 1
     },
         "ReturnChance": {
             "insureReturnChance": 70
