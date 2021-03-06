@@ -1,0 +1,9 @@
+{
+	"name": "InstantInsurance",
+	"author": "TheBlackAngelx",
+	"version": "1.1.1",
+	"license": "MIT",
+	"src": {
+		"src/Insurance.js": "TamperModLoad"
+	}
+}
